@@ -1,4 +1,4 @@
-# GrEAt — Generalizable Energy-based Anomaly Detection (Tabular)
+# GrEAt — Generalizable Energy-based Anomaly Detection (Tabular EHRs)
 
 GrEAt is a dual-head transformer framework for anomaly detection in **tabular** data. It learns (1) a supervised classifier for known anomalies and (2) a scalar **energy** function that separates normal/noisy samples from distribution-shifted anomalies using margin-based objectives and triplet regularization. The model is trained in **two phases**: classification pretraining, then energy-based refinement. 
 
@@ -101,8 +101,8 @@ If you use GrEAt, please cite the paper:
 ```bibtex
 @article{2026GrEAt,
   title   = {GrEAt: Generalizable Energy-based Anomaly Detection in Tabular Data},
-  author  = {Anonymous},
-  year    = {2025}
+  author  = {Anonymous for double-blind review},
+  year    = {2026}
 }
 ```
 
