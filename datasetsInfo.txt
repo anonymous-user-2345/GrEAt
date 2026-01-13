@@ -1,0 +1,17 @@
+Vertebral: A biomechanics dataset for classifying spinal conditions. It consists of 310 instances, each with six numeric attributes, and an anomaly proportion of approximately 24%.
+https://www.kaggle.com/datasets/caesarlupum/vertebralcolumndataset
+
+Ecoli: A biological dataset used for predicting protein localization sites in E. coli bacteria. It comprises 336 instances with seven numeric attributes and an anomaly proportion of about 15%.
+https://archive.ics.uci.edu/dataset/39/ecoli
+
+Breast Cancer Wisconsin: This medical dataset is used for diagnosing breast cancer. It contains 699 instances with nine numeric attributes, and about 35% of the instances are labeled as anomalies.
+https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+
+Statlog (German Credit): A financial dataset used to assess credit risk based on applicant attributes. It includes 1,000 records with 20 categorical and numeric attributes representing personal, employment, and financial factors, with an anomaly proportion of around 30% corresponding to cases of bad credit risk.
+https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
+
+Thyroid: A medical dataset aimed at detecting thyroid disorders. It includes 3,772 instances with a mix of six numeric and fifteen categorical attributes, and an anomaly proportion of around 5%.
+https://archive.ics.uci.edu/dataset/102/thyroid+disease
+
+KDD Cup: A benchmark network intrusion detection dataset widely used for evaluating anomaly detection methods. It contains 976,158 instances, each represented by 41 attributes that describe network traffic behaviors such as connection type, protocol, and byte counts, with an anomaly proportion of 0.35%.
+https://archive.ics.uci.edu/dataset/130/kdd+cup+1999+data
